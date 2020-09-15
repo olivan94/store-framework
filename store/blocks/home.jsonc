@@ -5,7 +5,10 @@
       "info-card#button-right",
       "info-card#button-left",
       "flex-layout.row",
-      "flex-layout.col"
+      "info-card#rethink",
+      "flex-layout.col",
+      "image#major-appliance",
+      "image#electronics"
     ]
   },
 
