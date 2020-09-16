@@ -24,10 +24,10 @@
     ]
   },
 
-    "search-content": {
-      "blocks": [
-        "gallery",
-        "not-found"
-      ]
-    }
+  "search-content": {
+    "children": [
+      "gallery",
+      "not-found"
+    ]
+  }
 } 
