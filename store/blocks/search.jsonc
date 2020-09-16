@@ -19,12 +19,12 @@
       "order-by.v2",      
       "search-fetch-previous",
       "filter-navigator.v3",
-      "search-content",
+      
       "search-fetch-more"
     ],
 
     "search-content": {
-      "children": [
+      "blocks": [
         "gallery",
         "not-found"
       ]
