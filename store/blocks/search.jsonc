@@ -16,15 +16,18 @@
       "breadcrumb.search",
       "search-title.v2",
       "total-products.v2",
-      "order-by.v2",
-      "search-fetch-more",
+      "order-by.v2",      
       "search-fetch-previous",
       "filter-navigator.v3",
-      "search-content"
-    ]
-  },
+      "search-content",
+      "search-fetch-more"
+    ],
 
-  "search-content": {
-    "children": ["gallery", "not-found"]
-  }
+    "search-content": {
+      "children": [
+        "gallery",
+        "not-found"
+      ]
+    }
+  }  
 }
