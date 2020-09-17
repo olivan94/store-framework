@@ -12,6 +12,9 @@
     },
 
     "menu-item#major-appliances":{
+        "props":{
+            "type": "custom"
+        },
         "blocks": ["vtex.menu@2.x:submenu#major"]        
     },
 
