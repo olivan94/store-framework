@@ -9,7 +9,7 @@
     "image#landingbanner": {
         "props": {
             "src":"https://mlg0l1rj4ui7.i.optimole.com/g3aT9w-BhD79rUX/w:auto/h:auto/q:auto/https://www.ombrelo.com.br/wp-content/uploads/2019/07/capivara-rosnando-e1510141236395.jpg",
-            "minwidth":100
+            "minWidth":100
         }
     },
 
