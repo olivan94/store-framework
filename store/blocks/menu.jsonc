@@ -12,7 +12,10 @@
     },
 
     "menu-item#major-appliances":{
-        "children":["vtex.menu@2.x:submenu#major"]
+        "children":["vtex.menu@2.x:submenu#major"],
+        "props":{
+            "orientation":"vertical"
+        }
     },
 
     "menu-item#small-appliances":{
@@ -48,7 +51,7 @@
 
     "vtex.menu@2.x:menu#small": {
         "children":[
-            "menu-item#mixer",
+            "menu-item#mixers",
             "menu-item#toasters",
             "menu-item#coffee"
         ],
